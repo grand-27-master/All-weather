@@ -1,0 +1,3 @@
+api_key=ac157a251c3667c533b9d6a3fc359e47
+
+api_url=https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=c9dce09c6afca0775ece3a9408ab78f2
